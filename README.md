@@ -1,4 +1,8 @@
-# SortingApp - WWDC22 Swift Student Challenge
+# SortApp - WWDC22 Swift Student Challenge
+
+## Summary
+
+"SortApp" is an app allowing users to experience and learn sorting algorithms interactively. The app contains four exemplary sorting algorithms: Bubble Sort, Insertion Sort, Selection Sort and Quick Sort. After choosing an algorithm, the user is greeted with the visualization containing multiple vertical lines of different length. Using "Sort!", the user can see how the algorithm works. The lines are then sorted by ascending length.
 
 ## How to run
 
